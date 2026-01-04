@@ -7,4 +7,13 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{}
+{
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "address1_label": "Calle, número y referencia",
+        "address2_label": "Colonia"
+      }
+    }
+  }
+}
